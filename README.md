@@ -1,3 +1,3 @@
-## Machinelearnig algorithms and usage
+## Machinelearnig algorithms 
 
 
